@@ -1,0 +1,162 @@
+#<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" contentidth=device-width, initial-scale=1.0">
+    <title>3D-PRACTICA-HTML</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>    
+    <div class="container">
+        <div id="nombre">
+            <h1>Alexander Bautista Hernadez</h1>
+        </div>
+        <div id="carrera">
+            <h2>Tecnologias dela Informacion</h2>
+        </div>
+        <div id="img">
+            <img src="./img/management-vector-icon-png_246579.jpg" alt="" id="png">
+        </div>
+        <div id="articulo">
+            <article>
+                <p>"Todo poder que no reconoce limites, crece se eleva, se dilata, y por fin se hunde por su propio peso".</p>
+                <p>"La virtud es un punto intermedio entre dos vicions opuestps".</p>
+                <p>"Si tus accines inspiran a otros a soñar más a aprender más, hacer más y a ser más eres un lider."</p>
+            </article>
+        </div>
+        <div id="PS">
+            <h2>Pasatiempos</h2>
+        </div>
+        <div id="Parrafo">
+            <ul>
+                <li>Leer</li>
+                <li>Jugar Ajedrez</li>
+                <li>Jugar videoGames</li>
+                <li>Futboll</li>
+                <li>Parcticar la Programcion</li>
+            </ul>
+          </div>
+        <div id="Horario">
+            <h2>Horario</h2>
+        </div>
+        <div id="tabla">
+            <table>
+                <thead>
+                    <th><p>Horas</p></th>
+                    <th><p>Lunes</p></th>
+                    <th>Martes</th>
+                    <th>Miercoles</th>
+                    <th>Jueves</th>
+                    <th>Viernes</th>
+                </thead>
+                <tr>
+                    <th><p>7:00-7:50</p></th>
+                    <th><p>Aplicaciones Web</p></th>
+                    <th><p>Probabilidad y Estadistica</p></th>
+                    <th><p>Aplicacion web</p></th>
+                    <th><p>Probabilidad y Estadistica</p></th>
+                    <th><p>Aplicaciones Wed</p></th>
+                </tr>
+                <tr>
+                    <th><p>7:50-8:40</p></th>
+                    <th><p>Aplicaciones Web</p></th>
+                    <th><p>Probabilidad y Estadistica</p></th>
+                    <th><p>Aplicacion web</p></th>
+                    <th><p>Probabilidad y Estadistica</p></th>
+                    <th><p>Aplicaciones Wed</p></th>
+                </tr>
+                <tr>
+                    <th><p>8:40-9:30</p></th>
+                    <th><p>Tutorias</p></th>
+                    <th><p>Cálculo DIferencial</p></th>
+                    <th><p>File</p></th>
+                    <th><p>Cálculo Diferencial</p></th>
+                    <th><p>Integradora I</p></th>
+                </tr>
+                <tr>
+                    <th><p>9:30-10:20</p></th>
+                    <th><p>Tutorias</p></th>
+                    <th><p>Cálculo DIferencial</p></th>
+                    <th><p>File I</p></th>
+                    <th><p>Cálculo Diferencial</p></th>
+                    <th><p>Integradora I</p></th>
+                </tr>
+                <tr>
+                    <th><p>R</p></th>
+                    <th><p>E</p></th>
+                    <th><p>C</p></th>
+                    <th><p>E</p></th>
+                    <th><p>S</p></th>
+                    <th><p>O</p></th>
+                </tr>
+                <tr>
+                    <th><p>10:20-11:40</p></th>
+                    <th><p>Base de datos para Aplicaciones</p></th>
+                    <th><p>Base de datos para Aplicaciones</p></th>
+                    <th><p>Base de datos para Aplicaciones</p></th>
+                    <th><p>File I</p></th>
+                    <th><p>Base de datos para Aplicaciones</p></th>
+                </tr>
+                <tr>
+                    <th><p>11:40-12:30</p></th>
+                    <th><p>Base de datos para Aplicaciones</p></th>
+                    <th><p>Base de datos para Aplicaciones</p></th>
+                    <th><p>Base de datos para Aplicaciones</p></th>
+                    <th><p>File I</p></th>
+                    <th><p>Ingles III</p></th>
+                </tr>
+                <tr>
+                    <th><p>12:30-13:20</p></th>
+                    <th>Probabilidad y Estadistica</th>
+                    <th><p>Sistemas Operativos</p></th>
+                    <th><p>Ingles III</p></th>
+                    <th><p>Sistemas Operativo</p></th>
+                    <th><p>Ingles III</p></th>
+                </tr>
+                <tr>
+                    <th><p>13:20-14:10</p></th>
+                    <th><p>Sistemas Operativos</p></th>
+                    <th><p>Sistemas Operativos</p></th>
+                    <th><p>Ingles III</p></th>
+                    <th><p>Sistemas Operativos</p></th>
+                    <th><p>Formacion Sociocultural</p></th>
+                </tr>
+                <tr>
+                    <th><p>14:10-15:00</p></th>
+                    <th>Ingles III</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+                <tr>
+                    <th><p>15:00-15:50</p></th>
+                    <th>Ingles III</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </table>
+        </div>
+        <div id="TC">
+            <h2>Informacion</h2>
+        </div>
+        <div id="Inf">
+            <ul>
+                <li>telefono: 7711195878</li>
+                <li>Correo: 20210647@uthh.edu.mx</li>
+            </ul>
+        </div>
+        <div id="Red">
+            <h2>Redes Sociales</h2> 
+        </div>
+        <div id="Redes">
+            <a href="https://www.facebook.com/profile.php?id=100073458679667&mibextid=ZbWKwL">@/Mi facebook</a><br>
+            <a href="https://github.com/20210647-Alexander/P1.git">@/github</a>
+        </div>
+    </div>
+   
+</body>
+</html>

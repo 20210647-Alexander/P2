@@ -1,1 +1,98 @@
+body
+{
+    background: linear-gradient(blue,pink)
+}
 
+.container
+{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    border-radius: 30px;
+    background-color:white;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 100px;
+}
+
+#Parrafo
+{
+    margin-left: 20px;
+    margin-right: 300px
+    
+}
+
+#tabla{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#InfP{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items:self-start;
+}
+
+#png
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+#tabla
+{
+    display: flex;
+    justify-content: center;
+}
+
+table
+{
+    background-color:white;
+}
+
+tr,th
+{
+    border: solid 1px black;
+    padding: 10px;
+}
+
+thead
+{
+    background-color:#06A558;
+}
+
+
+#Horario
+{
+    display: flex;
+    justify-content: center;
+}
+
+#TC
+{
+    display: flex;
+    justify-content: center;
+}
+
+#Inf
+{
+    display: flex;
+    margin-right: 500px;
+    margin-left: 300px;
+}
+
+#Red
+{
+    display: flex;
+    flex-direction: row;
+}
+
+#Redes
+{
+    display: flex;
+    flex-direction: column;
+    margin-right: 500px;
+    margin-left: 300px;
+}
